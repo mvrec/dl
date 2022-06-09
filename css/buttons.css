@@ -4,7 +4,7 @@
 button.wc-stu-btn.lock{cursor:not-allowed;background-color:#858480}button.wc-stu-btn.lock:hover{opacity:1}
 button.wc-stu-btn{position:relative;display:flex;justify-content: center;align-items:center;text-align:center;margin:10px auto;padding: 8px 18px 6px;outline:0;border:0;border-radius:4px;line-height:1.42857143;vertical-align:middle;color:#fefefe;background-color:#7c35ff;width:100%}
 button.wc-stu-btn:hover{opacity:0.8;} 
-button[disabled], html input[disabled] {opacity:0.5;background-color: #d5d5d5;}
+button[disabled], html input[disabled] {opacity:0.8;background-color: #d5d5d5;}
 @keyframes wcload{0%{transform:rotate(0deg);transform:rotate(0deg)}100%{transform:rotate(360deg);transform:rotate(360deg)}}
 @-webkit-keyframes wcload{0%{transform:rotate(0deg);transform:rotate(0deg)}100%{transform:rotate(360deg);transform:rotate(360deg)}}
 
