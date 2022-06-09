@@ -354,7 +354,7 @@ button.close {
             return false;
         }
         spinner.slideDown();
-        resultgenerate = "#?o=" + aesCrypto.encrypt(convertstr(generateurl.val()), convertstr('root'));
+        resultgenerate = "https://mvrec.github.io/dl/#?o=" + aesCrypto.encrypt(convertstr(generateurl.val()), convertstr('root'));
         resulturl.val(resultgenerate);
         spinner.slideUp();
         $('#msg').html('<strong>Well done!</strong> link has been encrypted.');
