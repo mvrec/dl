@@ -32,6 +32,9 @@ a[href^="tel"], a[href^="fax"] {
 	margin: 0 auto;
 	max-width: 940px;
 }
+img{
+	width: 100%;
+}
 .hy-btn {
 	color: #ffffff;
 	font-family: 'hypefontregular';
